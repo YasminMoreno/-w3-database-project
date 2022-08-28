@@ -1,4 +1,4 @@
-![portada](https://github.com/YasminMoreno/Proyecto-Sharks-Attacks_clean/blob/main/imagenes/portada.png)
+![portada](https://github.com/YasminMoreno/w3-database-project/blob/main/imagenes/portada.png)
 
 # w3-database-project
 
