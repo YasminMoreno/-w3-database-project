@@ -41,7 +41,7 @@ Posteriormente crearemos unas preguntas, contestaremos a ellas mediante queries 
 1. Archivo `database_proyect_3.ipynb` con el código donde limpiamos los 8 csv. 
 2. Archivo `queries.sql` con el dataset limpio.
 3. Archivo `videoclub_EER.png` con la imagen del EER creado.
-4. Archivo pdf `Presentación proyecto 3 videoclub` con la explicación del proceso que hemos realizado con python, el EER y de las preguntas que hemos contestado sobre el database con queries.
+4. Archivo pdf `Presentación_proyecto_3_videoclub` con la explicación del proceso que hemos realizado con python, el EER y de las preguntas que hemos contestado sobre el database con queries.
 
 
 ## Queries
