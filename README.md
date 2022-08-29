@@ -6,13 +6,13 @@ Proyecto sobre limpieza de varios csv con python y carga de datos para formar el
 
 ## Introducción
 
-Para este proyecto vamos a analizar `8 csv` para crear en MySQL Workbench un database con su EER y varias querys que contesten a las preguntas que queremos acerca de él. 
+Para este proyecto vamos a analizar `8 csv` para crear en MySQL Workbench un database con su EER y varias queries que contesten a las preguntas que queremos acerca de él. 
 
 Para ello vamos a utiplizar python y una vez hagamos la limpieza en él, MySQL Workbench.
 
 Podemos crear tablas nuevas, renombrarlas, eliminar columnas, etc. 
 
-Posteriormente crearemos unas preguntas, contestaremos a ellas mediante queries y sacaremos las conclusiones finales.
+Posteriormente crearemos unas preguntas y las contestaremos mediante queries para obtener la respuesta a la información que buscamos.
  
  
 ## Objetivos
