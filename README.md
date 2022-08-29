@@ -28,7 +28,7 @@ Posteriormente crearemos unas preguntas y las contestaremos mediante queries par
 
 1. Importamos los 8 csv y los limpiamos de uno en uno. Posteriormente quitamos los duplicados, nulos  y las columnas que no nos sirven.
 2. Juntamos la columna `first_name` y `last_name` en una nueva columna llamada `complete_name` de la tabla actor.
-3. La tabla `old_HDD` la renombramos y convertimos en 2, importando solo una vez el csv y escogiendo las columnas que nos interesan. La primera de ellas llamada `filmactor` y la segunda `filmcategory`. Las unimos entre `film` y `actor` y entre `film` y `category` sucesivamente. 
+3. La tabla `old_HDD` la renombramos y convertimos en 2, importando solo una vez el csv y escogiendo las columnas que nos interesan. La primera de ellas llamada `filmactor` y la segunda `filmcategory`. Las unimos entre `film` y `actor` y entre `film` y `category` respectivamente. 
 4. Realizamos un inner join mediante merge en la columna `inventory_id` de entra las tablas `inventory` y `rental` para solucionar esa columna y poderlas unir.
 5. Exportamos todos los csv a MySQL Workbench y creamos el database `videoclub` con sus Primeray Keys y Foreing Keys. Todo ello creado mediante python,  por si en un futuro queremos rectificar alguna tabla para que nos sea más sencillo a la hora de ejecutar.
 6. Una vez exportado el database creamos la EER.
